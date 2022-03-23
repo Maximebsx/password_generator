@@ -67,10 +67,10 @@ import smtplib
 
 SMTP_SERVER = "smtp.office365.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "j.laharrague@tbs-education.org"
-SMTP_PASSWORD = "wsnv71fu"
-EMAIL_FROM = "j.laharrague@tbs-education.org"
-EMAIL_TO = "celine.bergougnan8@gmail.com"
+SMTP_USERNAME = 
+SMTP_PASSWORD = 
+EMAIL_FROM = 
+EMAIL_TO = 
 EMAIL_SUBJECT = "Mot de passe d'instagram"
 EMAIL_MESSAGE = "Yo, ton mot de passe est :"+  MDP
 
